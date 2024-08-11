@@ -1,2 +1,4 @@
 # The-Sparks-Foundation-tasks
-Project ideas 
+Task 1 : face-mask-detection-using-cnn
+
+Task 2 : traffic-signal-vgg16
